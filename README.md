@@ -1,5 +1,11 @@
 # 📩 SMS Spam Detection Web App
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-orange)
+![NLTK](https://img.shields.io/badge/NLP-NLTK-yellow)
+![Streamlit](https://img.shields.io/badge/Deployed-Streamlit-green)
+![Status](https://img.shields.io/badge/Status-Live-success)
+
 A complete **end-to-end NLP-based SMS Spam Detection system** that classifies messages as **Spam** or **Not Spam** using Machine Learning.  
 The project covers the full ML lifecycle — from data preprocessing and model training to **deployment as a live web application**.
 
